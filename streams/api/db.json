@@ -1,0 +1,45 @@
+{
+  "streams": [
+    {
+      "title": "Stream 01",
+      "description": "My first experience with Streaming",
+      "id": 1
+    },
+    {
+      "title": "Stream 02",
+      "description": "Software Developer Co-op at Schneider Electric",
+      "id": 2
+    },
+    {
+      "title": "Stream 03",
+      "description": "Self-quarantine Day #1: Take care of yourself",
+      "id": 3
+    },
+    {
+      "title": "Stream 04",
+      "description": "Sef-quarantine Day #2: How to Make a simple Garlic Bread",
+      "id": 4
+    },
+    {
+      "title": "Stream 05",
+      "description": "Sef-quarantine Day #3: Best Brown Sugar Milk Ever",
+      "id": 5
+    },
+    {
+      "title": "Stream 06",
+      "description": "Modern React with Redux: My first step",
+      "id": 6
+    },
+    {
+      "title": "Hello World",
+      "description": "Update Hello World Stream's Description",
+      "id": 8
+    },
+    {
+      "title": "10/26/2020",
+      "description": "Another day of hard work. Will it ever pay off?",
+      "userId": "116094174117380064126",
+      "id": 9
+    }
+  ]
+}
