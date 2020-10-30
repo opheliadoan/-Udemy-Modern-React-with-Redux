@@ -13,3 +13,6 @@ const config = {
     allow_origin: "*",
   },
 };
+
+var nms = new NodeMediaServer(config);
+nms.run();
